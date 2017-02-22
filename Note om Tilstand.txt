@@ -1,0 +1,4 @@
+alt virker
+man kan kun sætte tal
+og hvis man ikke sætter nået bliver det til 0
+beklager ved ikke helt hvad jeg skal skrive ud over det;
